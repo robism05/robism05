@@ -1,4 +1,4 @@
-<h1 align="center"> Hello, there! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35" /></h1>
+# Hello there! ![gif]("https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif")
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/86170100/197214541-2b31641e-3fec-4c3b-b699-34f71ddbecfe.gif" alt="animated" />
